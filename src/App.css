@@ -1,12 +1,20 @@
 body {
-  background-color: #fccde3;
-  padding-top: 40px;
+  background-color: #87b9ad;
+  /* background-color: #fccde3; */
+  /* padding-top: 40px;
   padding-bottom: 40px;
   padding-left: 20px;
-  padding-right: 20px;
+  padding-right: 20px; */
 }
 
 .mainContainer {
-  background: linear-gradient(to right, #7a5893, #e8a3d1, #ae7eb2);
+  /* background: linear-gradient(to right, #7a5893, #e8a3d1, #ae7eb2); */
+  background: linear-gradient(to right, #009d91, #87b9ad, #508a80);
   height: 400px;
+  margin-top: 60px;
+  margin-left: 40px;
+  margin-right: 40px;
 }
+
+/* #508a80 */
+/* #074343  */
