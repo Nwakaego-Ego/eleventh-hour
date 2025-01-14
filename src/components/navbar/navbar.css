@@ -1,4 +1,64 @@
-/* .logo {
-  border: 2px solid #7a5893;
-  color: #7a5893;
-} */
+.mainLogoContainer {
+  padding: 10px;
+  margin-left: 15px;
+}
+
+.logoContainer {
+  background-color: rgb(71, 70, 70);
+  width: 50px;
+  height: 55px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 7px solid #daa520;
+  /* border-image: linear-gradient(to bottom, #b8860b, #daa520, #ffd700) 1; */
+  border-radius: 10px;
+}
+
+.logo {
+  color: #b8860b;
+  font-size: 30px;
+  height: 44px;
+}
+
+.number-eleven {
+  font-size: 10px;
+  color: #daa520;
+  position: relative;
+  bottom: 105px;
+  left: 10px;
+}
+
+.number-minus {
+  font-size: 20px;
+  color: #daa520;
+  position: relative;
+  bottom: 70px;
+  left: 45px;
+}
+
+.display-name {
+  position: relative;
+  bottom: 90px;
+}
+.ecommerce {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.companyName {
+  font-family: "Poppins", sans-serif; /* Modern and clean font */
+  font-weight: 600; /* Slightly bold for emphasis */
+  font-size: 1.2rem; /* Adjusted size */
+  color: #b8860b; /* Gold-like color */
+  text-align: center; /* Center-align for symmetry */
+  letter-spacing: 2px; /* Adds some spacing between letters */
+}
+
+.tagline {
+  font-family: "Poppins", sans-serif; /* Same font for consistency */
+  font-size: 0.9rem; /* Smaller size for the tagline */
+  color: #8b7d6b; /* A subtle muted color */
+  /* text-transform: uppercase; */
+  letter-spacing: 1.5px; /* A little spacing here too */
+}
